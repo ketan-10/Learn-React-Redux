@@ -4,6 +4,8 @@
 
 [RTK-Query](https://redux-toolkit.js.org/rtk-query/overview)
 
+[Redux vs Context](https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-redux-and-context-api)
+
 ### To Run
 
 `npm i`
